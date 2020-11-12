@@ -59,12 +59,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonText" xml:space="preserve">
-    <value>Click me for a message</value>
+    <value>د پیغام لپاره زما کلیک وکړی</value>
   </data>
   <data name="ResultLabelText" xml:space="preserve">
-    <value>It is a wonderful day, isn't it?</value>
+    <value>روز مجرای است ، نه ؟</value>
   </data>
   <data name="WelcomeLabelText" xml:space="preserve">
-    <value>Welcome to this sample!</value>
+    <value>به این نمونه ی ما خیر می اید !</value>
   </data>
 </root>
