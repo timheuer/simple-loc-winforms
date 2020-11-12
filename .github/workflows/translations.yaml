@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-    - '**.en.resx'
+    - '**.resx'
       
 jobs:
   build:

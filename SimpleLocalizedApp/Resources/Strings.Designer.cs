@@ -61,7 +61,16 @@ namespace SimpleLocalizedApp.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Click me for a message.
+        ///   Looks up a localized string similar to Another value is here.
+        /// </summary>
+        internal static string AnotherValue {
+            get {
+                return ResourceManager.GetString("AnotherValue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Inspirational Message - click here.
         /// </summary>
         internal static string ButtonText {
             get {
