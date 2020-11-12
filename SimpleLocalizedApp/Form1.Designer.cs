@@ -40,6 +40,7 @@ namespace SimpleLocalizedApp
             resources.ApplyResources(this.ActionButton, "ActionButton");
             this.ActionButton.Name = "ActionButton";
             this.ActionButton.UseVisualStyleBackColor = true;
+            this.ActionButton.Click += new System.EventHandler(this.ActionButton_Click);
             // 
             // WelcomeLabel
             // 
@@ -59,6 +60,7 @@ namespace SimpleLocalizedApp
             this.Controls.Add(this.WelcomeLabel);
             this.Controls.Add(this.ActionButton);
             this.Name = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

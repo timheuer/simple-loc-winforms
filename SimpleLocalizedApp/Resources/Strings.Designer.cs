@@ -59,5 +59,32 @@ namespace SimpleLocalizedApp.Resources {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Click me for a message.
+        /// </summary>
+        internal static string ButtonText {
+            get {
+                return ResourceManager.GetString("ButtonText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to It is a wonderful day, isn&apos;t it?.
+        /// </summary>
+        internal static string ResultLabelText {
+            get {
+                return ResourceManager.GetString("ResultLabelText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Welcome to this sample!.
+        /// </summary>
+        internal static string WelcomeLabelText {
+            get {
+                return ResourceManager.GetString("WelcomeLabelText", resourceCulture);
+            }
+        }
     }
 }
