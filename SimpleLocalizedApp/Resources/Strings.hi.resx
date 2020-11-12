@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonText" xml:space="preserve">
-    <value>एक संदेश के लिए मुझे क्लिक करें</value>
+    <value>प्रेरणादायक संदेश - यहां क्लिक करें</value>
   </data>
   <data name="ResultLabelText" xml:space="preserve">
     <value>यह एक अद्भुत दिन है, है ना?</value>

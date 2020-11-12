@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonText" xml:space="preserve">
-    <value>برای یک پیام روی من کلیک کنید</value>
+    <value>پیام الهام بخش - اینجا را کلیک کنید</value>
   </data>
   <data name="ResultLabelText" xml:space="preserve">
     <value>روز فوق العاده ايه، مطور نيست؟</value>

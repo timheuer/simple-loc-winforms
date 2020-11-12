@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonText" xml:space="preserve">
-    <value>انقر فوقي للحصول على رسالة</value>
+    <value>رسالة ملهمة - انقر هنا</value>
   </data>
   <data name="ResultLabelText" xml:space="preserve">
     <value>إنه يوم رائع، أليس كذلك؟</value>

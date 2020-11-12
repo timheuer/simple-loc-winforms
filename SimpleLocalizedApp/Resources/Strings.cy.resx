@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonText" xml:space="preserve">
-    <value>Cliciwch fi am neges</value>
+    <value>Neges Ysbrydoledig - cliciwch yma</value>
   </data>
   <data name="ResultLabelText" xml:space="preserve">
     <value>Mae'n ddiwrnod gwych, onid yw?</value>

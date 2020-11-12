@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonText" xml:space="preserve">
-    <value>Bấm vào tôi để nhận tin nhắn</value>
+    <value>Thông điệp truyền cảm hứng - bấm vào đây</value>
   </data>
   <data name="ResultLabelText" xml:space="preserve">
     <value>Đó là một ngày tuyệt vời, phải không?</value>
