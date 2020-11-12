@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonText" xml:space="preserve">
-    <value>Faceți clic pe mine pentru un mesaj</value>
+    <value>Mesaj inspirational - click aici</value>
   </data>
   <data name="ResultLabelText" xml:space="preserve">
     <value>E o zi minunată, nu-i așa?</value>

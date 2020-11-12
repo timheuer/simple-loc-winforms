@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonText" xml:space="preserve">
-    <value>A pata iau no te hoe parau poroi</value>
+    <value>A pata i te parau poroi faauruhia i o nei</value>
   </data>
   <data name="ResultLabelText" xml:space="preserve">
     <value>E mahana faahiahia mau, e ere anei?</value>
