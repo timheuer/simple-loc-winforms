@@ -58,6 +58,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AnotherSampleLabel" xml:space="preserve">
+    <value>Sa a se yon echantiyon teks etiket</value>
+  </data>
+  <data name="AnotherValue" xml:space="preserve">
+    <value>Yon lot vale se isit la</value>
+  </data>
   <data name="ButtonText" xml:space="preserve">
     <value>Mesaj enspirasyon - klike isit la</value>
   </data>
@@ -66,5 +72,8 @@
   </data>
   <data name="WelcomeLabelText" xml:space="preserve">
     <value>Byenveni nan echantiyon sa a!</value>
+  </data>
+  <data name="YetAnotherSampleLabel" xml:space="preserve">
+    <value>Eske ou renmen bannann?</value>
   </data>
 </root>

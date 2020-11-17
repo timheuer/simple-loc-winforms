@@ -58,6 +58,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AnotherSampleLabel" xml:space="preserve">
+    <value>Ovo je uzorak teksta naljepnica</value>
+  </data>
+  <data name="AnotherValue" xml:space="preserve">
+    <value>Još jedna vrijednost je ovdje.</value>
+  </data>
   <data name="ButtonText" xml:space="preserve">
     <value>Inspirativna poruka - kliknite ovdje</value>
   </data>
@@ -66,5 +72,8 @@
   </data>
   <data name="WelcomeLabelText" xml:space="preserve">
     <value>Dobrodošao u ovaj uzorak!</value>
+  </data>
+  <data name="YetAnotherSampleLabel" xml:space="preserve">
+    <value>Voliš li banane?</value>
   </data>
 </root>

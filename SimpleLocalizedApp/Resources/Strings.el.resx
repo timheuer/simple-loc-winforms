@@ -58,6 +58,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AnotherSampleLabel" xml:space="preserve">
+    <value>Αυτό είναι ένα δείγμα κειμένου ετικέτας</value>
+  </data>
+  <data name="AnotherValue" xml:space="preserve">
+    <value>Μια άλλη τιμή είναι εδώ</value>
+  </data>
   <data name="ButtonText" xml:space="preserve">
     <value>Εμπνευσμένο μήνυμα - κάντε κλικ εδώ</value>
   </data>
@@ -66,5 +72,8 @@
   </data>
   <data name="WelcomeLabelText" xml:space="preserve">
     <value>Καλώς ήρθατε σε αυτό το δείγμα!</value>
+  </data>
+  <data name="YetAnotherSampleLabel" xml:space="preserve">
+    <value>Σου αρέσουν οι μπανάνες;</value>
   </data>
 </root>

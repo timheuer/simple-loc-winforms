@@ -58,13 +58,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AnotherSampleLabel" xml:space="preserve">
+    <value>這是一個範例標籤文本</value>
+  </data>
+  <data name="AnotherValue" xml:space="preserve">
+    <value>另一個值在這裡</value>
+  </data>
   <data name="ButtonText" xml:space="preserve">
     <value>勵志留言 - 點擊這裡</value>
   </data>
   <data name="ResultLabelText" xml:space="preserve">
-    <value>這是美好的一天,不是嗎?</value>
+    <value>這是美好的一天，不是嗎？</value>
   </data>
   <data name="WelcomeLabelText" xml:space="preserve">
-    <value>歡迎光臨這個樣品!</value>
+    <value>歡迎光臨這個樣品！</value>
+  </data>
+  <data name="YetAnotherSampleLabel" xml:space="preserve">
+    <value>你喜歡香蕉嗎？</value>
   </data>
 </root>
