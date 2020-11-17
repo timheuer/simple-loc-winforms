@@ -58,6 +58,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AnotherSampleLabel" xml:space="preserve">
+    <value>Oqo na sabolo ni itukutuku ni pepa</value>
+  </data>
+  <data name="AnotherValue" xml:space="preserve">
+    <value>Dua tale na yavunilewa e tiko eke</value>
+  </data>
   <data name="ButtonText" xml:space="preserve">
     <value>Itukutuku veivakauqeti-kiliki eke</value>
   </data>

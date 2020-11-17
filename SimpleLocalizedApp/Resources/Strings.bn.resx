@@ -58,6 +58,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AnotherSampleLabel" xml:space="preserve">
+    <value>এটি একটি নমুনা লেবেল টেক্সট</value>
+  </data>
+  <data name="AnotherValue" xml:space="preserve">
+    <value>আরেকটি মান এখানে</value>
+  </data>
   <data name="ButtonText" xml:space="preserve">
     <value>অনুপ্রেরণামূলক বার্তা - এখানে ক্লিক করুন</value>
   </data>

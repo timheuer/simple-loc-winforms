@@ -58,6 +58,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AnotherSampleLabel" xml:space="preserve">
+    <value>ഇതൊരു സാമ്പിൾ ലേബൽ പദാവലിയാണ്</value>
+  </data>
+  <data name="AnotherValue" xml:space="preserve">
+    <value>മറ്റൊരു മൂല്യം ഇവിടെ</value>
+  </data>
   <data name="ButtonText" xml:space="preserve">
     <value>പ്രചോദനാത്മക സന്ദേശം - ഇവിടെ ക്ലിക്ക് ചെയ്യുക</value>
   </data>

@@ -58,6 +58,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AnotherSampleLabel" xml:space="preserve">
+    <value>O se faataitaiga lenei o le anotusi o le faailoga</value>
+  </data>
+  <data name="AnotherValue" xml:space="preserve">
+    <value>O le isi mea taua o iinei</value>
+  </data>
   <data name="ButtonText" xml:space="preserve">
     <value>Savali Musuia - kiliki i i</value>
   </data>
