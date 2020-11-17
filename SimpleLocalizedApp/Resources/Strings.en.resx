@@ -132,4 +132,7 @@
   <data name="WelcomeLabelText" xml:space="preserve">
     <value>Welcome to this sample!</value>
   </data>
+  <data name="YetAnotherSampleLabel" xml:space="preserve">
+    <value>Do you like bananas?</value>
+  </data>
 </root>

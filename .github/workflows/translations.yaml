@@ -17,6 +17,7 @@ jobs:
       
     # Use the resource translator to automatically translate resource files
     - name: Resource translator
+      id: resource_translator
       uses: IEvangelist/resource-translator@v2.0.4
       with:
         # The Azure Cognitive Services translator resource subscription key
@@ -34,4 +35,5 @@ jobs:
       uses: peter-evans/create-pull-request@v3.4.1
       with:
           commit-message: Updating translations
-          title: Update Translations from Azure
+          title: '${{ steps.resource_translator.outputs.summary-title }}'
+          body: '${{ steps.resource_translator.outputs.summary-details }}'
