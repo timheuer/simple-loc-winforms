@@ -6,7 +6,12 @@ on:
       - main
     paths:
     - '**.en.resx'
-      
+
+# https://docs.github.com/en/free-pro-team@latest/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
+# GitHub automatically creates a GITHUB_TOKEN secret to use in your workflow.
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
 jobs:
   build:
     name: Create Translations    
