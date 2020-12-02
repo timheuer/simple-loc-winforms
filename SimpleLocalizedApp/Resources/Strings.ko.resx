@@ -58,6 +58,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AnotherSampleLabel" xml:space="preserve">
+    <value>샘플 레이블 텍스트입니다.</value>
+  </data>
+  <data name="AnotherValue" xml:space="preserve">
+    <value>또 다른 값은 여기에 있습니다.</value>
+  </data>
   <data name="ButtonText" xml:space="preserve">
     <value>영감 메시지 - 여기를 클릭하십시오.</value>
   </data>
@@ -66,5 +72,8 @@
   </data>
   <data name="WelcomeLabelText" xml:space="preserve">
     <value>이 샘플에 오신 것을 환영합니다!</value>
+  </data>
+  <data name="YetAnotherSampleLabel" xml:space="preserve">
+    <value>바나나를 좋아하나요?</value>
   </data>
 </root>

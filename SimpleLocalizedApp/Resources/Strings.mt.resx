@@ -58,6 +58,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AnotherSampleLabel" xml:space="preserve">
+    <value>Dan huwa test tat-tikketta kampjun</value>
+  </data>
+  <data name="AnotherValue" xml:space="preserve">
+    <value>Valur ieħor huwa hawn</value>
+  </data>
   <data name="ButtonText" xml:space="preserve">
     <value>Messaġġ ta' Ispirazzjoni - ikklikkja hawn</value>
   </data>
@@ -66,5 +72,8 @@
   </data>
   <data name="WelcomeLabelText" xml:space="preserve">
     <value>Merħba f'dan il-kampjun!</value>
+  </data>
+  <data name="YetAnotherSampleLabel" xml:space="preserve">
+    <value>Tixtieq il-banana?</value>
   </data>
 </root>

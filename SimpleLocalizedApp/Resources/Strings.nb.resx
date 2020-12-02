@@ -58,6 +58,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AnotherSampleLabel" xml:space="preserve">
+    <value>Dette er et eksempel på etiketttekst</value>
+  </data>
+  <data name="AnotherValue" xml:space="preserve">
+    <value>En annen verdi er her</value>
+  </data>
   <data name="ButtonText" xml:space="preserve">
     <value>Inspirerende melding - klikk her</value>
   </data>
@@ -66,5 +72,8 @@
   </data>
   <data name="WelcomeLabelText" xml:space="preserve">
     <value>Velkommen til denne prøven!</value>
+  </data>
+  <data name="YetAnotherSampleLabel" xml:space="preserve">
+    <value>Liker du bananer?</value>
   </data>
 </root>

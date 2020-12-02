@@ -58,6 +58,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AnotherSampleLabel" xml:space="preserve">
+    <value>ਇਹ ਇੱਕ ਨਮੂਨਾ ਲੇਬਲ ਟੈਕਸਟ ਹੈ</value>
+  </data>
+  <data name="AnotherValue" xml:space="preserve">
+    <value>ਇੱਕ ਹੋਰ ਮੁੱਲ ਇੱਥੇ ਹੈ</value>
+  </data>
   <data name="ButtonText" xml:space="preserve">
     <value>ਪ੍ਰੇਰਣਾਦਾਇਕ ਸੁਨੇਹਾ - ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ</value>
   </data>
@@ -66,5 +72,8 @@
   </data>
   <data name="WelcomeLabelText" xml:space="preserve">
     <value>ਇਸ ਨਮੂਨੇ ਵਿੱਚ ਤੁਹਾਡਾ ਸਵਾਗਤ ਹੈ!</value>
+  </data>
+  <data name="YetAnotherSampleLabel" xml:space="preserve">
+    <value>ਕੀ ਤੁਹਾਨੂੰ ਕੇਲੇ ਪਸੰਦ ਹਨ?</value>
   </data>
 </root>
